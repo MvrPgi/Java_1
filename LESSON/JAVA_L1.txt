@@ -1,0 +1,26 @@
+JAVA- source code -> byte code(jvm/jdk) -> object code
+  JDK - Java Development Kit
+  JRE - Java Runtime Env
+  JVM - Java Virtual Machine
+
+James Gosling(1991)
+  - OAK original name
+
+Java Programming Language 
+  - developed by SUN(Standford University Network)
+  - Famed for its security Features
+  - 
+
+
+
+Object-Oriented Programming
+ - when you program without using OOP, you are using procedurally or a step-by-step program guides.
+
+ Features Of OOP
+  Encapsulation - capturing data and keeping it safely and securely 
+  Abstraction - represent data at conceptual level without details. Hides informaation to other class
+  Inheritance - class can be derived from a base class with all features of base class 
+  Message Passing - object communicate through invoking methods and sending data to them
+  Polymorphism - ability to exist in various form
+
+ 
