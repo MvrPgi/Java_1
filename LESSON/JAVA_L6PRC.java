@@ -16,7 +16,7 @@ public class JAVA_L6PRC {
     y = scanner.nextDouble();
     z = Math.sqrt((x*x)+(y*y));
 
-    System.out.println(""+z);
+    System.out.println("Your Hypotenus: "+z);
 
     
     
