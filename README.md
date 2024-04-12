@@ -1,8 +1,8 @@
-# Getting Started
+# Java Rice
 
-Reference: [text](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=4619s)
+Reference: [](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=4619s)
 
-## Watch Me Learn Watch Me NaeNae
+#### Watch Me Learn Watch Me NaeNae
 # Lessons
 1. Variable
 2. Swap
