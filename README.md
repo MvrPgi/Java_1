@@ -1,6 +1,6 @@
 # Java Rice
 
-Reference: [(https://www.youtube.com/watch?v=xk4_1vDrzzo&t=4619s)]
+Reference: [](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=4619s)
 
 #### Watch Me Learn Watch Me NaeNae
 # Lessons
