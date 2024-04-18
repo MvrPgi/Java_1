@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "src",
         "LESSON"
+        
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": []
