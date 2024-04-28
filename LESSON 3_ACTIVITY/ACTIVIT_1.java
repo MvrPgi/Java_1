@@ -4,6 +4,7 @@
 //To compute prelim grade, class standing should be multiplied by 2 and add the result for exam rating.
 import java.util.Scanner;
 
+
 public class ACTIVIT_1 {
   public static void main(String[] args) {
   // student information
@@ -37,7 +38,7 @@ public class ACTIVIT_1 {
     int Ravg = (R1+R2)/2;
     int Pavg = (P1+P2)/2;
     int classtand = (Qavg+Ravg+Pavg)/3;
-    int prelim = (classtand * 2)+(E1);
+    int prelim = (classtand * 2)+(E1)/3;
 
     // printing grades and student information
     System.out.println("Your Name"+name);

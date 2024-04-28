@@ -32,12 +32,12 @@ public class L4_ACT4 {
             equivalent = 5.00;
         } else {
             System.out.println("Invalid grade! Grade should be between 0 and 100.");
-            scanner.close(); // Close the scanner before returning
+            scanner.close(); 
             return;
         }
 
         System.out.println("Equivalent: " + equivalent);
 
-        scanner.close(); // Close the scanner after usage
-    }
+        scanner.close(); 
+}
 }
