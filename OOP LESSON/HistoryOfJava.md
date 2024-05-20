@@ -9,18 +9,18 @@
 
 # Features of Java
 
-## **Simple**: 
+### **Simple**: 
   - Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages.
 
-## **Object-Oriented**: 
+### **Object-Oriented**: 
   - Java is an object-oriented programming language.
 
-## **Platform-Independent**: 
+### **Platform-Independent**: 
   - Java is platform-independent because it is different from other languages like C, C++, etc. which are compiled into platform-specific machines while Java is a write once, run anywhere language.
   - JRE (Java Runtime Environment) is used to run Java programs.
   - API (Application Programming Interface) is a collection of classes and interfaces that have pre-defined methods.
   - Write Once Run Anywhere (WORA) 
-## **Secured**
+### **Secured**
   - Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
     - No explicit pointer
     - Java Programs run inside a virtual machine sandbox
