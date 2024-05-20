@@ -16,6 +16,36 @@
 - **main** represents the starting point of the program.
 - **String[] args** is used for command line arguments. We will learn it in the next section.
 - **System.out.println()** is used to print statement. Here, System is a class, out is an object of PrintStream class, println() is a method of PrintStream class.
-- **JVM** is the heart of Java programming language. When we run the Java program, it converts the bytecode into machine language.
+- **JVM** *Java Virtual Machine*is the heart of Java programming language. When we run the Java program, it converts the bytecode into machine language.
 - **JRE** is an acronym for *Java Runtime Environment*. It is used to provide runtime environment. It is the implementation of JVM. It physically exists. It contains a set of libraries + other files that JVM uses at runtime.
+- **JDK** is an acronym for *Java Development Kit*. It is a software development kit used to develop Java applications and applets. It physically exists. It contains JRE + development tools.
+
+# Java Fundamentals
+ - *Statements*is one or more lines of code that perform an operation.
+ - *Blocks* are a group of statements that are enclosed in curly braces.
+
+## Java Identifiers
+ - identifiers are tokens tha represent the names of variables, methods, classes, packages, and 
+ interfaces.
+
+## Java Keywords 
+ - Keywords are reserved words that have a specific meaning in the Java programming language. These keywords cannot be used as identifiers.
+
+## Java Literals
+ - Literals are data used in Java programs. These are constant values that are used in the program.
+  - Integer Literals
+  - Floating-Point Literals
+  - Character Literals
+  - String Literals
+  - Boolean Literals
+
+## Data Types
+  - Data types represent the different values that a variable can store. In Java, data types are classified into two categories:
+    1. Primitive Data Types
+    2. Non-Primitive Data Types
+### Variables 
+  - are containers for storing data values.
+    1. **Local Variables**: Variables defined inside methods, constructors, or blocks are called local variables.
+    2. **Instance Variables**: Variables declared inside the class but outside the method are called instance variables.
+    3. **Static Variables**: Variables that are declared as static are called static variables.
 
