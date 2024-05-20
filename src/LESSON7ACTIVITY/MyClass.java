@@ -10,7 +10,7 @@ public class MyClass {
     System.out.println(c.getModel());
     System.out.println(c.getYear());
 
-    
+
     fruits f = new fruits("apple", "red", 5);
     System.err.println("--------------------------------");
     // Using getter methods to access private attributes
@@ -25,6 +25,17 @@ public class MyClass {
     System.out.println(a.getname());
     System.out.println(a.getcolor());
     System.out.println(a.getage());
+    animal a1 = new animal();
+    a1.setname("Cat");
+    a1.setcolor("White");
+    a1.setage(3);
+    
+    System.err.println("--------------------------------");
+    // Using getter methods to access private attributes
+    System.out.println(a1.getname());
+    System.out.println(a1.getcolor());
+    System.out.println(a1.getage());
+    
   }
   } 
 
