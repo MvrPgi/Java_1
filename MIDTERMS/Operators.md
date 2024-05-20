@@ -69,7 +69,7 @@
 | Operator | Description | Example |
 |----------|-------------|---------|
 | `&`      | Bitwise AND | `a & b` |
-| `|`      | Bitwise OR  | `a | b` |
+| `\`      | Bitwise OR  | `a \ b` |
 | `^`      | Bitwise XOR | `a ^ b` |
 | `~`      | Bitwise Complement | `~a` |
 | `<<`     | Left Shift  | `a << b` |
