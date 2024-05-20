@@ -43,6 +43,7 @@
 
 ### Java Arithmetic Operators
  - Arithmetic operators are used to perform the basic mathematical operations between two operands.
+
 | Operator | Description | Example |
 |----------|-------------|---------|
 | `+`      | Addition    | `a + b` |
@@ -50,6 +51,7 @@
 | `*`      | Multiplication | `a * b` |
 | `/`      | Division    | `a / b` |
 | `%`      | Modulus     | `a % b` |
+
 
 ### Java Left Shift Operator
  - The left shift operator shifts the bits of the number to the left by a specified number of bits.
