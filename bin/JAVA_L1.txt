@@ -1,3 +1,5 @@
+________________________________________________________________________________________________________________
+
 JAVA- source code -> byte code(jvm/jdk) -> object code
   JDK - Java Development Kit
   JRE - Java Runtime Env
@@ -9,18 +11,36 @@ James Gosling(1991)
 Java Programming Language 
   - developed by SUN(Standford University Network)
   - Famed for its security Features
-  - 
 
+Disk Operating System 
+  - a platform-independent which later become a common shorthand for disk-based operating system
+________________________________________________________________________________________________________________
 
+Elements Of Java --> TOKENS
+  - serves as tools for the java program to develop simple-complex applications
+
+  Keywords - are reserved words, which means that they cannot be used in any way than how intended it is to be.
+  Separators - divide code into segments
+________________________________________________________________________________________________________________
+Types Of Operator
+  Arithmetic          Relational
+  () GROUPINGS        == Equal To
+  * Multiplication    != Not Equal To
+  / Division          > Greater Than
+  % Modulus           < Less Than
+  - Substraction      >= Greater Than Or Equal To
+  + Addition          <= Less Thank Or Equal To
+________________________________________________________________________________________________________________
 
 Object-Oriented Programming
  - when you program without using OOP, you are using procedurally or a step-by-step program guides.
 
  Features Of OOP
-  Encapsulation - capturing data and keeping it safely and securely 
-  Abstraction - represent data at conceptual level without details. Hides informaation to other class
-  Inheritance - class can be derived from a base class with all features of base class 
-  Message Passing - object communicate through invoking methods and sending data to them
-  Polymorphism - ability to exist in various form
+    Encapsulation - capturing data and keeping it safely and securely 
+    Abstraction - represent data at conceptual level without details. Hides informaation to other class
+    Inheritance - class can be derived from a base class with all features of base class 
+    Message Passing - object communicate through invoking methods and sending data to them
+    Polymorphism - ability to exist in various form
+________________________________________________________________________________________________________________
 
  
