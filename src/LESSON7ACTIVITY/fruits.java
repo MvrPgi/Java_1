@@ -12,6 +12,7 @@ fruits() {}
     this.name = name;
     this.color = color;
     this.expiration = expiration;
+
   }
   // Getter methods
   public String getname() {
