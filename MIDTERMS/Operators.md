@@ -22,7 +22,9 @@
 
 ### Java Unary Operators
  - Unary operators require only one operand. Unary operators are used to perform various operations i.e., incrementing/decrementing a value by one, negating an expression, or inverting the value of a boolean.
- | Operator Type | Category       | Precedence         | Description                                                                 |
+
+
+| Operator Type | Category       | Precedence         | Description                                                                 |
 |---------------|----------------|--------------------|-----------------------------------------------------------------------------|
 | Unary         | Postfix        | `expr++` `expr--`  | `val = a++;` Store the value of `a` in `val` then increments.<br>`val = a--;` Store the value of `a` in `val` then decrements. |
 |               | Prefix         | `++expr` `--expr` `+expr` `-expr` `~` `!` | `val = ++a;` Increments `a` then store the new value of `a` in `val`.<br>`val = --a;` Decrements `a` then store the new value of `a` in `val`. |
