@@ -26,6 +26,19 @@ fruits() {}
   public int getexpiration() {
       return expiration;
   }
+  // Setter methods
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public void setColor(String color) {
+    this.color = color;
+  }
+
+  public void setExpiration(int expiration) {
+    this.expiration = expiration;
+  }
 }
+
 
 

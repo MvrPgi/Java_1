@@ -26,4 +26,16 @@ public class cars {
     public int getYear() {
         return year;
     }
+    // Setter methods
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
 }

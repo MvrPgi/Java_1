@@ -37,6 +37,18 @@ public class animal {
     public int getage() {
         return age;
     }
+    // Setter methods
+    public void setName(String name) {
+      this.name = name;
+    }
+
+    public void setColor(String color) {
+      this.color = color;
+    }
+
+    public void setAge(int age) {
+      this.age = age;
+    }
   }
   
   
